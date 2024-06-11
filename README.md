@@ -5,7 +5,7 @@ El propósito de este artículo es dimensionar el sistema de suspensión de un a
 
 Mecánica Vibratoria, Facultad de Ingeniería, Universidad Nacional de Cuyo. Mendoza, Argentina. 
 
-<strong>Junio 2024<strong>.
+Junio 2024
 
 ## Sistema de Estudio
 El estudio inicia con un modelo simplificado de un automóvil Peugeot 504, asumiendo simetría longitudinal, lo que permite considerar solo la mitad del vehículo para obtener un modelo aún más reducido como se representa en la figura. Este modelo reducido incluye el chasis del vehículo, la suspensión y la amortiguación proporcionada por los neumáticos, tanto delanteros como traseros.
@@ -14,7 +14,7 @@ El estudio inicia con un modelo simplificado de un automóvil Peugeot 504, asumi
 ## Análisis Experimental
 Para estudiar el comportamiento del sistema, se establecen parámetros fijos y parámetros variables. Los parámetros variables incluyen el sistema de suspensión del vehículo, las condiciones iniciales del sistema y las formas de excitación externas al sistema. 
 
-Se calcula la respuesta del sistema utilizando parámetros estándar de referencia y luego se hacen variaciones en los parametros.
+Se calcula la respuesta del sistema utilizando parámetros estándar de referencia y luego se hacen variaciones en los parámetros.
 
 <strong>Gráfico 1:<strong> Fuerzas Externas aplicadas al Sistema
 
